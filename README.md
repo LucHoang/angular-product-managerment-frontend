@@ -1,5 +1,7 @@
 # AngularProductManagement
 
+- backend: https://github.com/LucHoang/angular-product-managerment-backend
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
